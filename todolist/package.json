@@ -1,0 +1,29 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Example apps using node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineetakandala/node-apps.git"
+  },
+  "keywords": [
+    "todolist",
+    "todo",
+    "tasks"
+  ],
+  "author": "Vineeta Kandala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vineetakandala/node-apps/issues"
+  },
+  "homepage": "https://github.com/vineetakandala/node-apps#readme",
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
+}
